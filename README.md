@@ -1,1 +1,1 @@
-# My-Projects
+# My-Projects - Knife Classification and model detection project which involve Efficientnet-0 model. Run the train.py and then test.py for training and testing the model.
